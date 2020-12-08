@@ -1,1 +1,1 @@
-# DBMS-Mini-Project
+# Web-developement-mini-project
